@@ -1,13 +1,23 @@
 # FDRGuard
-### Intelligent FDR Lifecycle and Compliance Platform
+### Streamline of security deposit or FDR portal
 
 **A centralized platform for managing, verifying, monitoring, and tracking institutional Fixed Deposit Receipts (FDRs).**
 
+## SIH 2026 Project Details
+
+| Field | Details |
+|---|---|
+| Hackathon | Smart India Hackathon 2026 |
+| Team Name | TrustNexus_005 |
+| Team ID | 199473 |
+| Problem Statement ID | SIH26265 |
+| Problem Statement Title | Streamline of security deposit or FDR portal |
+| Theme | Smart Automation |
+| PS Category | Software |
+
 ## Live Deployment
 
-**Application:** [Visit FDRGuard](YOUR_DEPLOYMENT_URL)
-
-
+**Application:** [fdrguard-sih26265.vercel.app](https://fdrguard-sih26265.vercel.app)
 
 ---
 
@@ -188,7 +198,7 @@ Its key differentiating aspects include:
 - **Verification Officer:** Reviews submitted information, examines discrepancies, and updates verification status.
 - **Platform Administrator:** Manages platform-level settings, users, monitoring, and administrative activities.
 
-## 9. Expected Impact
+## 9. Impact
 
 FDRGuard aims to:
 
@@ -212,17 +222,6 @@ The platform incorporates security-oriented practices such as:
 - Monitoring of selected security-related activities.
 
 These mechanisms support security and traceability but do not independently guarantee the authenticity of bank-issued documents.
-
-## 11. Future Enhancements
-
-The following capabilities can be explored as future integrations, subject to technical feasibility and authorization:
-
-- Integration with authorized bank verification services.
-- Integration with relevant regulatory information systems.
-- Advanced document verification workflows.
-- Expanded anomaly analysis across larger datasets.
-- Additional compliance reporting and analytics.
-- Configurable notification and escalation mechanisms.
 
 ## 12. Prototype Scope
 
